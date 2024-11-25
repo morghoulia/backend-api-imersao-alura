@@ -1,2 +1,2 @@
 # backend-api-imersao-alura
-Desenvolvimento Back-end com Node.js, MongoDB e Postman, configurando um servidor local e integrando ao front-end. Uso da API Gemini para gerar descrições, integração com o Google Cloud Platform e suporte a uploads de imagens. Projeto funcional para gerenciar posts e escalável para futuras implementações.
+Este projeto foi desenvolvido durante a Imersão Alura em parceria com a Google com o objetivo de criar um back-end funcional utilizando Node.js, MongoDB, Google Gemini e várias outras tecnologias. A API gerencia o upload de imagens, armazena dados no banco de dados e gera descrições automáticas das imagens, além de poder ser integrada com o front-end. É um projeto funcional e escalável para futuras implementações.
