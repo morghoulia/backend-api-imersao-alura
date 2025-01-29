@@ -13,7 +13,7 @@ Após a integração com o front-end fornecido na imersão (semelhante ao perfil
 
 ![Descricao2Gemini](https://github.com/user-attachments/assets/c0325db9-f6a9-41e4-8a45-3592721ae025)
 
-. As informações foram disponibilizadas no Google Cloud, permitindo que qualquer pessoa com o link pudesse acessar o banco de dados. A API, baseada em Node.js e MongoDB e hospedada no Google Cloud, está funcionando corretamente, armazenando e recuperando dados de forma organizada e acessível. Você consegue ter acesso à ela clicando no [link](https://backend-api-imersao-alura-502727767460.southamerica-east1.run.app/posts). 
+. As informações foram disponibilizadas no Google Cloud, permitindo que qualquer pessoa com o link acesse a API. Desenvolvida em Node.js e MongoDB, a API está hospedada no Google Cloud e funcionando corretamente, armazenando e recuperando dados de forma organizada e acessível. Você pode acessá-la clicando no [link](https://backend-api-imersao-alura-502727767460.southamerica-east1.run.app/posts). 
 
 ![GoogleCloud](https://github.com/user-attachments/assets/8df765a8-4c1d-49ec-a866-8bb5de0c5562)
 
